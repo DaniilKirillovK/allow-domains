@@ -1541,3 +1541,4 @@
 /ip dns static add name=zoneofgames.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=zozo.gg type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=zugres.ugletele.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=фридом.su type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
