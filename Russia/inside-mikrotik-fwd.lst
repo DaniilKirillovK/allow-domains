@@ -1122,3 +1122,4 @@
 /ip dns static add name=zendesk.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=zerkalo.io type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=zona.media type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=2ip.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost

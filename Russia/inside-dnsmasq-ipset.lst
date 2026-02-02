@@ -1123,3 +1123,4 @@ ipset=/zedge.net/vpn_domains
 ipset=/zendesk.com/vpn_domains
 ipset=/zerkalo.io/vpn_domains
 ipset=/zona.media/vpn_domains
+ipset=/2ip.ru/vpn_domains
